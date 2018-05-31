@@ -4,7 +4,7 @@ This github repo represents the open source version of my textbook on Recording 
 
 ## Open Source Translation
 
-I would love to have this repo translated from English to other languages. If you are interested in translating, feel free to fork the repo and submit a pull request once you are finished. Alternatively, shoot me an email at jeff@jeffbricemusic.commonly
+I would love to have this repo translated from English to other languages. If you are interested in translating, feel free to fork the repo and submit a pull request once you are finished. Alternatively, shoot me an email at jeff@jeffbricemusic.com
 
 Translations will never be used in the print version of the textbook without the author first contacting and negotiating usage of said translations. By submitting a translation to this repo, you are consenting to release said translation as open source.
 
