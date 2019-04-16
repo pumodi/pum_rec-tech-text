@@ -14,9 +14,9 @@
 * Restoration and Repair: If there are any issues with the audio, like clicks and pops, those are fixed before we move on.
 * Stereo Enhancing: Used to tighten up low end and provide a wide sound to your mix.
 * EQ: Corrects spatial imbalances and enhances elements that need to stand out. Generally, the goal here is to provide proportional balance. Nothing sticking out too much.
-* Compresison: In this case, we use compression to provide uniformity to the mix. 
+* Compression: In this case, we use compression to provide uniformity to the mix.
 * Loudness: After compression, we limit the track and boost it to make it competitively loud. We must be careful not to overdo this step.
-* Bit Depth Reduction & Sample Rate Conversion (Dithering): This is where the raw stereo output from the mastering desk is taken, converted down to the appropriate formats, and prepped for release. 
+* Bit Depth Reduction & Sample Rate Conversion (Dithering): This is where the raw stereo output from the mastering desk is taken, converted down to the appropriate formats, and prepped for release.
 * Sequencing: If you have multiple tracks, this is where they would be timed and placed onto a master media. For example, CD or Vinyl.
 
 Examples of mastered vs unmastered mixes.
